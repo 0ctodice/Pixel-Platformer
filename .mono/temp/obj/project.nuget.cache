@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/veSIQJyfE22cVBMYJ43DkbasBDfgj7sNXAHMnbjRoY2jCt5dPzx58wgURja1rXh2Rk+0smRx28mq+KrNr7eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thoma\\Desktop\\Godot Sharp 3.4.4\\Game Projects\\Pixel-Platformer\\Pixel Plateformer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

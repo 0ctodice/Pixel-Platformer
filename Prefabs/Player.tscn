@@ -1,0 +1,31 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Prefabs/GreenPlayerSprites.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://Scripts/PlayerMovement.cs" type="Script" id=3]
+
+[sub_resource type="RectangleShape2D" id=3]
+extents = Vector2( 6, 8.5 )
+
+[node name="Player" type="KinematicBody2D"]
+z_index = 10
+collision_layer = 2
+script = ExtResource( 3 )
+_gravity = 4.0
+_acceleration = 100.0
+_jumpForce = -130.0
+_fallForce = 20.0
+_fallOffLimit = -70.0
+_gravityLimit = 300.0
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = ExtResource( 1 )
+animation = "Idle"
+flip_h = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 0, 3.5 )
+shape = SubResource( 3 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+smoothing_enabled = true

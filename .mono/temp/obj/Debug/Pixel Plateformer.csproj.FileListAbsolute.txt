@@ -1,0 +1,27 @@
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\bin\Debug\Pixel Plateformer.dll
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\bin\Debug\Pixel Plateformer.pdb
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\obj\Debug\Pixel Plateformer.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\obj\Debug\Pixel Plateformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\obj\Debug\Pixel Plateformer.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\obj\Debug\Pixel Plateformer.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\obj\Debug\Pixel Plateformer.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\obj\Debug\Pixel Plateformer.dll
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel Plateformer\.mono\temp\obj\Debug\Pixel Plateformer.pdb
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\bin\Debug\Pixel Plateformer.dll
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\bin\Debug\Pixel Plateformer.pdb
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.dll
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.pdb
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\bin\Debug\Pixel Plateformer.dll
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\bin\Debug\Pixel Plateformer.pdb
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.dll
+C:\Users\thoma\Desktop\Godot Sharp 3.4.4\Game Projects\Pixel-Platformer\.mono\temp\obj\Debug\Pixel Plateformer.pdb
