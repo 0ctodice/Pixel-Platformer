@@ -10,12 +10,6 @@ extents = Vector2( 6, 8.5 )
 z_index = 10
 collision_layer = 2
 script = ExtResource( 3 )
-_gravity = 4.0
-_acceleration = 100.0
-_jumpForce = -130.0
-_fallForce = 20.0
-_fallOffLimit = -70.0
-_gravityLimit = 300.0
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
 frames = ExtResource( 1 )
